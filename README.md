@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RDiMag
 - 👀 I’m interested in JavaScript and React.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript, React, HTML/CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
