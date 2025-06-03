@@ -1,6 +1,6 @@
 - Hi, I’m @RDiMag
-- I’m interested in JavaScript and React for front-end.
-- Working with Postgres, Terraform, and Ansible for back-end.
+- JavaScript and React for front-end
+- Python, Postgres, Terraform, and Ansible for back-end.
 
 <!---
 RDiMag/RDiMag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
